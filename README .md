@@ -5,3 +5,16 @@ I am currently learning GitHub, Git, and version control as part of my academic 
 ## GitHub Learning
 
 This repository demonstrates my understanding of GitHub repositories, README files, and version control through multiple commits.
+## Projects
+
+### AI-Based Anemia Detection
+An AI and machine learning project that analyzes eye appearance and nail pallor indicators to assist in anemia detection.
+
+### Smart Door Lock System
+An Arduino-based IoT project for secure door access using embedded systems.
+
+### Online Bus Ticket Reservation
+A C-based project demonstrating data structures and database concepts for online bus ticket booking.
+
+### Personal Portfolio Website
+A personal portfolio website developed using HTML, CSS, and JavaScript.
